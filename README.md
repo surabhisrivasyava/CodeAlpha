@@ -1,0 +1,1 @@
+A collection of simple Python mini-projects including a Stock Portfolio Tracker, Basic Chatbot, and Hangman Game. Each task focuses on practical implementation of core Python concepts such as control structures, data structures, and file handling. Designed to strengthen problem-solving skills and real-world programming logic.
